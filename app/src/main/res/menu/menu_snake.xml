@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SnakeActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/show_history_records" android:title="Show History Records"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/delete_history_records" android:title="Delete All Records"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
